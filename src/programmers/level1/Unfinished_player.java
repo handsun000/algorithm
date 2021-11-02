@@ -1,6 +1,8 @@
+package programmers.level1;
+
 import java.util.*;
 
-class Unfinished_player {
+public class Unfinished_player {
     public String solution(String[] participant, String[] completion) {
         String answer = "";
         Arrays.sort(participant);
