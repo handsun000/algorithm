@@ -1,7 +1,7 @@
 package programmers.level1;
 import java.util.Stack;
 
-public class Crane_Puppet_Game {
+class Crane_Puppet_Game {
         public int solution(int[][] board, int[] moves) {
             int answer = 0;
             Stack<Integer> st = new Stack<>();
