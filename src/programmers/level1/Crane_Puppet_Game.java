@@ -37,6 +37,7 @@ class Crane_Puppet_Game {
         }
 
 
+
         return answer;
 
     }
