@@ -56,10 +56,6 @@ class Solution {
             }
         }
 
-        System.out.println(rt);
-        System.out.println(cf);
-        System.out.println(jm);
-        System.out.println(an);
 
         return answer;
     }
